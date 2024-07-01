@@ -18,7 +18,7 @@ This project performs an in-depth sentiment analysis on a dataset of movie revie
 - scikit-learn
 - NLTK
 - matplotlib
+- Regression
 - seaborn
 - Flask
-- Docker
 

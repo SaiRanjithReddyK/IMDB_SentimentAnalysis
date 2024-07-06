@@ -9,7 +9,6 @@ This project performs an in-depth sentiment analysis on a dataset of movie revie
 3. **Model Training:** Split data into training and testing sets. Train multiple models including Logistic Regression, Naive Bayes, SVM, Random Forest, and Gradient Boosting.
 4. **Hyperparameter Tuning:** Optimize model parameters using GridSearchCV for better performance.
 5. **Model Evaluation:** Evaluate models using accuracy, precision, recall, F1-score, and ROC-AUC. Visualize performance metrics.
-6. **Deployment:** Create a web interface using Flask for sentiment prediction. Deploy the model using Docker.
 7. **Visualization:** Use matplotlib and seaborn for visualizing key steps and results.
 
 ### Libraries:
